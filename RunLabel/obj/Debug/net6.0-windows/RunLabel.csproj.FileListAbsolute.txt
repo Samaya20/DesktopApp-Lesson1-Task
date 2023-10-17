@@ -1,0 +1,16 @@
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\bin\Debug\net6.0-windows\RunLabel.exe
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\bin\Debug\net6.0-windows\RunLabel.deps.json
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\bin\Debug\net6.0-windows\RunLabel.runtimeconfig.json
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\bin\Debug\net6.0-windows\RunLabel.dll
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\bin\Debug\net6.0-windows\RunLabel.pdb
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\RunLabel.Form1.resources
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\RunLabel.csproj.GenerateResource.cache
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\RunLabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\RunLabel.AssemblyInfoInputs.cache
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\RunLabel.AssemblyInfo.cs
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\RunLabel.csproj.CoreCompileInputs.cache
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\RunLabel.dll
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\refint\RunLabel.dll
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\RunLabel.pdb
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\RunLabel.genruntimeconfig.cache
+C:\Users\Designers\source\repos\Task-1-Win\RunLabel\obj\Debug\net6.0-windows\ref\RunLabel.dll
